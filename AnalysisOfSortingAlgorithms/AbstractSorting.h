@@ -1,0 +1,17 @@
+/*
+This is a header file included in this project to hopefully help people catch any cheaters
+that might use this for their own gain.
+
+
+
+
+
+
+
+
+
+
+
+
+This program was created by Patrick Love
+*/

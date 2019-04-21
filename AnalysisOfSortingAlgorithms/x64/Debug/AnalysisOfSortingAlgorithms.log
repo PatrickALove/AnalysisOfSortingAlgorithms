@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\C++\Carrier\Chapter 15\AnalysisOfSortingAlgorithms\AnalysisOfSortingAlgorithms\Source.cpp(144): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\Carrier\Chapter 15\AnalysisOfSortingAlgorithms\AnalysisOfSortingAlgorithms\Source.cpp(142): warning C4101: 'number': unreferenced local variable
+  AnalysisOfSortingAlgorithms.vcxproj -> E:\C++\Carrier\Chapter 15\AnalysisOfSortingAlgorithms\x64\Debug\AnalysisOfSortingAlgorithms.exe
